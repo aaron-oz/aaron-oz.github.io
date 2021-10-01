@@ -1,0 +1,4 @@
+baseURL = 'http://aaronoz.space/'
+languageCode = 'en-us'
+title = 'Personal webpage for Aaron Osgood-Zimmerman'
+publishDir = "docs"
