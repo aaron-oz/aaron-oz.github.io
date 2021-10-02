@@ -2,10 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://aaronoz.space/categories/</loc>
+    <loc>aaronoz.space/bio/background/</loc>
+    <lastmod>2019-02-11T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>http://aaronoz.space/</loc>
+    <loc>aaronoz.space/research/research-interest/</loc>
+    <lastmod>2019-02-11T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>http://aaronoz.space/tags/</loc>
+    <loc>aaronoz.space/docs/inla-tmb/</loc>
+    <lastmod>2019-02-11T19:30:08+10:00</lastmod>
+  </url><url>
+    <loc>aaronoz.space/teaching/univ-wash/</loc>
+    <lastmod>2019-02-11T19:30:08+10:00</lastmod>
+  </url><url>
+    <loc>aaronoz.space/bio/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url><url>
+    <loc>aaronoz.space/docs/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url><url>
+    <loc>aaronoz.space/teaching/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url><url>
+    <loc>aaronoz.space/research/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url><url>
+    <loc>aaronoz.space/research/current-research/</loc>
+    <lastmod>2019-02-11T19:30:08+10:00</lastmod>
+  </url><url>
+    <loc>aaronoz.space/docs/eu-cancer/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url><url>
+    <loc>aaronoz.space/teaching/ihme/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url><url>
+    <loc>aaronoz.space/research/prior-research/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url><url>
+    <loc>aaronoz.space/bio/curriculum-vitae/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url><url>
+    <loc>aaronoz.space/research/publications/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url><url>
+    <loc>aaronoz.space/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url><url>
+    <loc>aaronoz.space/categories/</loc>
+  </url><url>
+    <loc>aaronoz.space/tags/</loc>
   </url>
 </urlset>

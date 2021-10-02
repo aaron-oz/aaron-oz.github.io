@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal webpage for Aaron Osgood-Zimmerman</title>
-    <link>http://aaronoz.space/</link>
-    <description>Recent content on Personal webpage for Aaron Osgood-Zimmerman</description>
+    <title>Aaron Osgood-Zimmerman</title>
+    <link>aaronoz.space/</link>
+    <description>Recent content on Aaron Osgood-Zimmerman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://aaronoz.space/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="aaronoz.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Background</title>
+      <link>aaronoz.space/bio/background/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>aaronoz.space/bio/background/</guid>
+      <description>more info than you probably needed to know</description>
+    </item>
+    
+    <item>
+      <title>Research Interests</title>
+      <link>aaronoz.space/research/research-interest/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>aaronoz.space/research/research-interest/</guid>
+      <description>I am currently interested in:
+ spatial statistics; spatial epidemiology; global health; data visualization.  If you&amp;rsquo;re interested in collaborating on something, drop me a line!</description>
+    </item>
+    
+    <item>
+      <title>TMB and R-INLA</title>
+      <link>aaronoz.space/docs/inla-tmb/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>aaronoz.space/docs/inla-tmb/</guid>
+      <description>An introduction to spatial modeling in Template Model Builder and R-INLA (Integrated Nested Laplace Approximations).</description>
+    </item>
+    
+    <item>
+      <title>University of Washington</title>
+      <link>aaronoz.space/teaching/univ-wash/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>aaronoz.space/teaching/univ-wash/</guid>
+      <description>Teaching at the University of Washington</description>
+    </item>
+    
+    <item>
+      <title>Current Research</title>
+      <link>aaronoz.space/research/current-research/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>aaronoz.space/research/current-research/</guid>
+      <description>TMB and R-INLA, Cancer Mapping in the EU, Spatial model assessment</description>
+    </item>
+    
+    <item>
+      <title>EU Cancer</title>
+      <link>aaronoz.space/docs/eu-cancer/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>aaronoz.space/docs/eu-cancer/</guid>
+      <description>&lt;p&gt;Joint Estimation of Breast Cancer Incidence and Mortality across the EU 2000-2018&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IHME</title>
+      <link>aaronoz.space/teaching/ihme/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>aaronoz.space/teaching/ihme/</guid>
+      <description>Teaching at the Institute for Health Metrics and Evaluation</description>
+    </item>
+    
+    <item>
+      <title>Previous Research</title>
+      <link>aaronoz.space/research/prior-research/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>aaronoz.space/research/prior-research/</guid>
+      <description>Completed research projects</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>aaronoz.space/bio/curriculum-vitae/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>aaronoz.space/bio/curriculum-vitae/</guid>
+      <description>click here to find an up-to-date CV</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>aaronoz.space/research/publications/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>aaronoz.space/research/publications/</guid>
+      <description>List of my published and forthcoming  publications</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Aaron Osgood-Zimmerman</title>
+    <link>aaronoz.space/research/</link>
+    <description>Recent content in Research on Aaron Osgood-Zimmerman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="aaronoz.space/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Interests</title>
+      <link>aaronoz.space/research/research-interest/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>aaronoz.space/research/research-interest/</guid>
+      <description>I am currently interested in:
+ spatial statistics; spatial epidemiology; global health; data visualization.  If you&amp;rsquo;re interested in collaborating on something, drop me a line!</description>
+    </item>
+    
+    <item>
+      <title>Current Research</title>
+      <link>aaronoz.space/research/current-research/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>aaronoz.space/research/current-research/</guid>
+      <description>TMB and R-INLA, Cancer Mapping in the EU, Spatial model assessment</description>
+    </item>
+    
+    <item>
+      <title>Previous Research</title>
+      <link>aaronoz.space/research/prior-research/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>aaronoz.space/research/prior-research/</guid>
+      <description>Completed research projects</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>aaronoz.space/research/publications/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>aaronoz.space/research/publications/</guid>
+      <description>List of my published and forthcoming  publications</description>
+    </item>
+    
+  </channel>
+</rss>

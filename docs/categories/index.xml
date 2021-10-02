@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Personal webpage for Aaron Osgood-Zimmerman</title>
-    <link>http://aaronoz.space/categories/</link>
-    <description>Recent content in Categories on Personal webpage for Aaron Osgood-Zimmerman</description>
+    <title>Categories on Aaron Osgood-Zimmerman</title>
+    <link>aaronoz.space/categories/</link>
+    <description>Recent content in Categories on Aaron Osgood-Zimmerman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://aaronoz.space/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="aaronoz.space/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

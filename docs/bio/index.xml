@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bio on Aaron Osgood-Zimmerman</title>
+    <link>aaronoz.space/bio/</link>
+    <description>Recent content in Bio on Aaron Osgood-Zimmerman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="aaronoz.space/bio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Background</title>
+      <link>aaronoz.space/bio/background/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>aaronoz.space/bio/background/</guid>
+      <description>more info than you probably needed to know</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>aaronoz.space/bio/curriculum-vitae/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>aaronoz.space/bio/curriculum-vitae/</guid>
+      <description>click here to find an up-to-date CV</description>
+    </item>
+    
+  </channel>
+</rss>

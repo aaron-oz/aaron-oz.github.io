@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes, Tutorials, and Code on Aaron Osgood-Zimmerman</title>
+    <link>aaronoz.space/docs/</link>
+    <description>Recent content in Notes, Tutorials, and Code on Aaron Osgood-Zimmerman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="aaronoz.space/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TMB and R-INLA</title>
+      <link>aaronoz.space/docs/inla-tmb/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>aaronoz.space/docs/inla-tmb/</guid>
+      <description>An introduction to spatial modeling in Template Model Builder and R-INLA (Integrated Nested Laplace Approximations).</description>
+    </item>
+    
+    <item>
+      <title>EU Cancer</title>
+      <link>aaronoz.space/docs/eu-cancer/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>aaronoz.space/docs/eu-cancer/</guid>
+      <description>&lt;p&gt;Joint Estimation of Breast Cancer Incidence and Mortality across the EU 2000-2018&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

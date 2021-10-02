@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview on Aaron Osgood-Zimmerman</title>
+    <link>aaronoz.space/teaching/</link>
+    <description>Recent content in Overview on Aaron Osgood-Zimmerman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="aaronoz.space/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>University of Washington</title>
+      <link>aaronoz.space/teaching/univ-wash/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>aaronoz.space/teaching/univ-wash/</guid>
+      <description>Teaching at the University of Washington</description>
+    </item>
+    
+    <item>
+      <title>IHME</title>
+      <link>aaronoz.space/teaching/ihme/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>aaronoz.space/teaching/ihme/</guid>
+      <description>Teaching at the Institute for Health Metrics and Evaluation</description>
+    </item>
+    
+  </channel>
+</rss>

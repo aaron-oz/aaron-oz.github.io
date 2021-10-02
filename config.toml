@@ -1,5 +1,69 @@
-baseURL = 'http://aaronoz.space/'
-languageCode = 'en-us'
-title = 'Personal webpage for Aaron Osgood-Zimmerman'
-publishDir = "docs"
-theme = "ananke"
+baseURL = "aaronoz.space"
+languageCode = "en-us"
+title = "Aaron Osgood-Zimmerman"
+themesDir = "./themes"
+theme = "hugo-whisper-theme"
+publishDir = "./docs"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+# Controls how many words are printed in the content summary on the docs homepage.
+# See https://gohugo.io/content-management/summaries/
+summaryLength = 30
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 2
+
+[[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 3
+
+[[menu.main]]
+    name = "Bio"
+    url = "/bio/"
+    weight = 4
+
+[[menu.main]]
+    name = "Docs"
+    url = "/docs/"
+    weight = 5
+
+[params]
+  google_analytics_id=""
+  homepage_button_link = '/bio/'
+  homepage_button_text = 'more about me'
+  homepage_intro = 'Hello!'
+  homepage_image = '/images/combo_time.gif'
+  mainSections = ["teaching", "research", "bio", "docs"]
+  ## You can enable to add anchor links to header elements
+  # enable_anchor_link = true
+
+  [params.homepage_meta_tags]
+    meta_description = "AOZ personal webpage"
+    meta_og_title = "Aaron Osgood-Zimmerman"
+    meta_og_type = "website"
+    meta_og_url = "https://hugo-whisper.netlify.app"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
+    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@zerostaticio"
+    meta_twitter_creator = "@zerostaticic"
+
+  [params.logo]
+      mobile = "/images/logo-mobile.svg"
+      standard  = "/images/logo.svg"
