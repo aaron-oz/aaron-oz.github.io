@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Aaron Osgood-Zimmerman"
 themesDir = "./themes"
 theme = "hugo-whisper-theme"
-publishDir = "./docs"
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
