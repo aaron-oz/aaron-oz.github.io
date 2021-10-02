@@ -1,4 +1,4 @@
-baseURL = "aaronoz.space"
+baseURL = "https://aaronoz.space"
 languageCode = "en-us"
 title = "Aaron Osgood-Zimmerman"
 themesDir = "./themes"
