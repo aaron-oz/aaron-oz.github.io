@@ -44,8 +44,12 @@ summaryLength = 30
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/bio/'
-  homepage_button_text = 'more about me'
+  homepage_button_link_1 = '/teaching/'
+  homepage_button_text_1 = 'about my teaching'
+  homepage_button_link_2 = '/research/'
+  homepage_button_text_2 = 'about my research'
+  homepage_button_link_3 = '/bio/'
+  homepage_button_text_3 = 'more about me'
   homepage_intro = 'Hello!'
   homepage_image = '/images/combo_time.gif'
   mainSections = ["teaching", "research", "bio", "docs"]
@@ -64,5 +68,5 @@ summaryLength = 30
     meta_twitter_creator = "@zerostaticic"
 
   [params.logo]
-      mobile = "/images/logo-mobile.svg"
-      standard  = "/images/logo.svg"
+      mobile = "/images/earth-globe.svg"
+      standard  = "/images/earth-globe.svg"
