@@ -32,5 +32,5 @@ Here's a [summary of the student evaluations](evaluations.pdf) I recieved from t
 #### Notes:
 * First time using overleaf/latex to encourage students to submit typset work. This seemed to work well.
 * First time using piazza for online discussion, I would use it again.
-* First time using gradescope for grading, I though it really helped us give consistent marks.
-* The accelerated schedule was quite difficult for me and students. I think material this rich is better suited to a more spreadout semester.
+* First time using gradescope for grading, I thought it really helped us give consistent marks.
+* The accelerated schedule was difficult for me and even more so for thestudents. I think material this rich is better suited to a more spreadout semester.

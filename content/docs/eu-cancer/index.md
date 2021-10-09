@@ -7,7 +7,9 @@ summary: Joint Estimation of Breast Cancer Incidence and Mortality across the EU
 
 Joint Estimation of Breast Cancer Incidence and Mortality across the EU 2000-2018
 
-<!--more-->
+coming soon...
+
+<!---
 
 ## Quickstart
 
@@ -34,3 +36,5 @@ function myFunction() {
   }
 }
 ```
+
+-->
