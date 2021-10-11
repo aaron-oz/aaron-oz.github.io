@@ -3,7 +3,7 @@ title: 'University of Washington'
 date: 2019-02-11T19:30:08+10:00
 draft: false
 weight: 1
-summary: Teaching at the University of Washington
+summary: My teaching at the University of Washington
 type: subsection
 ---
 
