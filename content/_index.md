@@ -4,7 +4,7 @@ date: 2018-11-28T15:14:39+10:00
 ---
 
 I'm finishing up my Ph.D. in the Department of Statistics at the
-  University of Washington. I entered my doctoral program because I I
+  University of Washington. I entered my doctoral program because I
   enjoy sharing what what I've learned with others and because I
   wanted to pursue a faculty career at a teaching-focused institute of
   higher education. At the moment, I'm now looking for exactly that

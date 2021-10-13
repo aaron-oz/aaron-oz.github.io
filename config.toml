@@ -68,5 +68,5 @@ summaryLength = 30
     meta_twitter_creator = "@zerostaticic"
 
   [params.logo]
-      mobile = "/images/earth-globe.svg"
-      standard  = "/images/earth-globe.svg"
+      mobile = "/images/myplot.svg"
+      standard  = "/images/myplot_3.svg"
