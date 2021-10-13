@@ -24,8 +24,8 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="2.1119792"
-     inkscape:cx="191.76326"
-     inkscape:cy="191.76326"
+     inkscape:cx="192.23674"
+     inkscape:cy="191.76325"
      inkscape:window-width="2048"
      inkscape:window-height="1119"
      inkscape:window-x="0"
@@ -158,7 +158,8 @@
      id="g22" />
   <g
      id="g4300"
-     mask="url(#mask4436)">
+     mask="url(#mask4436)"
+     transform="matrix(1.3516353,0,0,1.3516353,-71.265012,-43.017777)">
     <g
        clip-path="url(#cpMC4wMHwyODguMDB8MC4wMHwyODguMDA=-3)"
        id="g15"
@@ -178,7 +179,7 @@
     </g>
     <path
        sodipodi:type="spiral"
-       style="mix-blend-mode:normal;fill:none;fill-rule:evenodd;paint-order:markers stroke fill;stroke:url(#Wavywhite);stroke-opacity:1;stroke-width:45.73402551;stroke-miterlimit:10;stroke-dasharray:none"
+       style="mix-blend-mode:normal;fill:none;fill-rule:evenodd;stroke:url(#Wavywhite);stroke-width:45.734;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="path1257"
        sodipodi:cx="194.68661"
        sodipodi:cy="190.45113"
